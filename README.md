@@ -1,4 +1,3 @@
-````markdown
 # 🌿 FloraID – AI Plant Disease Analyzer
 
 > An AI-powered plant disease diagnosis system that combines deep learning with Google's Gemma 4 to identify plant diseases, explain symptoms, and recommend treatments — all running locally.
@@ -208,4 +207,3 @@ Ai-Plant-Disease-Detector/
 ## 📄 License
 
 MIT License — feel free to use, modify, and build upon this project.
-````
