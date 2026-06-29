@@ -1,4 +1,4 @@
-# 🌿 FloraID – AI Plant Disease Analyzer
+# 🌿 CropScan-AI – AI Plant Disease Analyzer
 
 > An AI-powered plant disease diagnosis system that combines deep learning with Google's Gemma 4 to identify plant diseases, explain symptoms, and recommend treatments — all running locally.
 
@@ -11,7 +11,7 @@
 
 ## 🌱 About
 
-FloraID is an AI-powered web application that helps identify plant diseases from leaf images. Instead of simply predicting a disease name, it combines image classification with Google's Gemma 4 to generate an easy-to-understand diagnosis, explain possible causes, and suggest treatment and prevention methods.
+CropScan-AI is an AI-powered web application that helps identify plant diseases from leaf images. Instead of simply predicting a disease name, it combines image classification with Google's Gemma 4 to generate an easy-to-understand diagnosis, explain possible causes, and suggest treatment and prevention methods.
 
 The entire workflow runs locally, making it fast, private, and suitable for demonstrations, research, and educational purposes.
 
